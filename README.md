@@ -13,3 +13,9 @@
 ## Daily Log  
 ### Day 1  
 **Learned:** `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cat`  
+## Day 1 - Linux Basics
+- Date: June 18, 2025
+- Commands Learned: `whoami`, `ls`, `ls -la`, `cd`, `mkdir`, `touch`, `echo`, `cat`, `sudo`
+- First time using the terminal
+- Encountered "Permission denied" error and fixed it using `sudo`
+- Status: Complete ✅
