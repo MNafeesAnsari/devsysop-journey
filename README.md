@@ -18,4 +18,4 @@
 - Commands Learned: `whoami`, `ls`, `ls -la`, `cd`, `mkdir`, `touch`, `echo`, `cat`, `sudo`
 - First time using the terminal
 - Encountered "Permission denied" error and fixed it using `sudo`
-- Status: Complete ✅
+
