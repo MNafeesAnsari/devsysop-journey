@@ -25,9 +25,18 @@
 - Learned pipe | to chain commands
 - Status: Complete ✅
 
+
 ### Day 3 - June 24, 2026
 - Commands: top, ps aux, df -h, du -sh, kill, head
 - Monitored running processes
 - Checked disk space (72% full!)
 - Killed a process using PID
 - Status: Complete ✅
+
+- -### Day 4 - June 24, 2026
+- Learned: chmod, chown, rwx permissions
+- chmod 700, 644, 755 practice ki
+- Owner change kiya chown se
+- Formula: r=4, w=2, x=1
+- Status: Complete ✅
+- 
