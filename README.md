@@ -39,4 +39,11 @@
 - Owner change kiya chown se
 - Formula: r=4, w=2, x=1
 - Status: Complete ✅
-- 
+### Day 5 - June 24, 2026
+- Commands: nano, wget, tar, crontab
+- Google ka HTML terminal se download kiya
+- Files zip aur unzip ki
+- Automatic daily backup schedule kiya
+- Status: Complete ✅
+
+## Stage 1: Linux Basics - COMPLETE ✅- 
