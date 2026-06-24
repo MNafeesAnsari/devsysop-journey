@@ -18,9 +18,16 @@
 - Commands Learned: `whoami`, `ls`, `ls -la`, `cd`, `mkdir`, `touch`, `echo`, `cat`, `sudo`
 - First time using the terminal
 - Encountered "Permission denied" error and fixed it using `sudo`
-### Day 2 - June 24, 2026
+### Day 2 - June 23, 2026
 - Commands: cp, mv, rm, grep, grep -i, pipe (|)
 - Copied, moved, renamed files
 - Searched inside files with grep
 - Learned pipe | to chain commands
+- Status: Complete ✅
+
+### Day 3 - June 24, 2026
+- Commands: top, ps aux, df -h, du -sh, kill, head
+- Monitored running processes
+- Checked disk space (72% full!)
+- Killed a process using PID
 - Status: Complete ✅
